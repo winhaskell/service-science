@@ -1,0 +1,11 @@
+Requirements: 
+Assignment: complex “project” (Architecture and process design of an imaginary enterprise).
+The project could contain common parts from the design / model of Service Science’s 2nd assignment.
+
+Tasks:
+Brief description of the business, list of main functions (e.g. creating account, procurement, hiring);
+Design 3 different process with BPMN (~15-20 element);
+Create 2 level of Data Flow Diagram  (~15-20 element);
+Create the 3 level of Logical Data Model;
+Create a diagram where you connect every data storage in your DFD with an entity in your LDM;
+Create the Physical Data Model (Excel sheet);
